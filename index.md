@@ -9,7 +9,7 @@
 
 ### 趣味
 
-![GitHub Logo](D:\Desktop\WatanabeYuusuke\murakumo.jpg)
+![GitHub Logo](https://github.com/yuusukewatanabe/watanabe02/blob/master/murakumo.jpg)
 
 ### Contact
 
