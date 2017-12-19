@@ -9,7 +9,7 @@
 
 ### 趣味
 
-![murakumo Logo](https://github.com/yuusukewatanabe/watanabe02/blob/master/murakumo.jpg)
+![murakumo Logo](watanabe02/murakumo.jpg)
 
 3Dモデリング、自作パソコン、海釣り等をしています。
 
